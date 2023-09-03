@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "biLYpjyRF47Yasy3eHO0kc2ETfQxQjv2vcL7cetGlkk2rpjjx0biRmDdi6wFbXFCfP4SQF6UAg9pYPZwX6d0Mw==",
+  "success": true,
+  "projectFilePath": "f:\\programming\\Betul\\Hoca\\Dizi1\\Dizi1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
